@@ -1,1 +1,1 @@
-# stepik_selenium
+Natalya is an instance of a class turtle
