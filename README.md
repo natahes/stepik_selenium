@@ -1,1 +1,1 @@
-Natalya is an instance of a class turtle
+Have a good day!
